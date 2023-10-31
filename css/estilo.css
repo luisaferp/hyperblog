@@ -2,6 +2,18 @@ body
 {
     color: blueviolet;
     text-align: center;
-    font font-family: "Arial";
-    
+    font-family: "Arial";
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid;
+}
+#container h1
+{
+font-size:30px;
 }
