@@ -1,24 +1,25 @@
 body
 {
-    color: blueviolet;
+    color: #333;
     text-align: center;
     font-family: "Arial";
-    margin: 0;
-    padding: 0;
+    
 }
 #container
 {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid;
+    border: 1px solid ;
 }
 #cabecera
 {
-background-color: blue;
-box-shadow:0px 5px 30px 0px rgba(0,0,0,0.75) ;
+   background-color: #33A; 
+   color: white;
+   padding: 0.5em;
+   margin: 0;
 }
 #container h1
 {
-font-size:30px;
+font-size:20px;
 }
